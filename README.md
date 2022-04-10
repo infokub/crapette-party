@@ -18,8 +18,10 @@ If you play locally, one player use the mouse, the second use the keyboard :
 # Crapette rules
 The game is prepared like this : 
 
-|   Player 2 board  |
+|   Player 2 board  |  
+
 | Stack L | Stack R |
+
 |   Player 1 board  |
 
 Each player plays with half of the deck.
