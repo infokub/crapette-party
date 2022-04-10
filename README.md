@@ -51,7 +51,7 @@ On a regular game, when your board is empty you have to tap one stack, and add i
 If your deck doesn't have enough cards for the preparation : you win.
 
 # Known issues
-This game works at least for one run. But it can fail if you try to restart.
-The game doesn't handle conflicts (when two players try to put a card at the same time, on the same stack)
+- This game works at least for one run. But it can fail if you try to restart.
+- The game doesn't handle conflicts (when two players try to put a card at the same time, on the same stack)
 
 Enjoy !
